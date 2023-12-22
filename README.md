@@ -11,7 +11,7 @@
 <h1>Skills</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,net,aws,react,git,redux,redis,webpack,tailwind,kubernetes,docker,vercel,sequelize,prisma,mongo,postgres,ts,javascript,c,r,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,net,aws,react,redux,redis,webpack,tailwind,git,github,gitlab,kubernetes,docker,vercel,sequelize,prisma,mongo,postgres,cs,ts,javascript,c,php,r,python" />
   </a>
 </p>
 <h3>Theory comes from practice, so enjoy it while you experiment</h1>
